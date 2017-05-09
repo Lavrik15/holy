@@ -1,0 +1,28 @@
+.car, .gift, .usefull, .карта{
+	background: url(sprites.png) no-repeat;
+}
+
+.car{
+	background-position: -33px -21px ;
+	width: 34px;
+	height: 24px;
+}
+
+.gift{
+	background-position: -27px -121px ;
+	width: 24px;
+	height: 27px;
+}
+
+.usefull{
+	background-position: -25px -175px ;
+	width: 34px;
+	height: 35px;
+}
+
+.карта{
+	background-position: -35px -80px ;
+	width: 35px;
+	height: 23px;
+}
+

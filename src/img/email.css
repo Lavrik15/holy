@@ -1,0 +1,40 @@
+.panda, .closed, .egg, .heart-big, .heart-small, .open{
+	background: url(sprites.png) no-repeat;
+}
+
+.panda{
+	background-position: -7px -281px ;
+	width: 52px;
+	height: 56px;
+}
+
+.closed{
+	background-position: -15px -21px ;
+	width: 139px;
+	height: 71px;
+}
+
+.egg{
+	background-position: -7px -213px ;
+	width: 44px;
+	height: 68px;
+}
+
+.heart-big{
+	background-position: -26px -346px ;
+	width: 21px;
+	height: 21px;
+}
+
+.heart-small{
+	background-position: -30px -384px ;
+	width: 13px;
+	height: 12px;
+}
+
+.open{
+	background-position: -10px -115px ;
+	width: 139px;
+	height: 84px;
+}
+
